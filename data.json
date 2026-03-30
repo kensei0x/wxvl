@@ -19456,5 +19456,6 @@
     "https://mp.weixin.qq.com/s/u70vB0h_qO4Dsbr9xlSnBg": "BIND 9个安全漏洞允许攻击者绕过安全控制并导致服务器崩溃",
     "https://mp.weixin.qq.com/s/PAYwTbzyK0bvNpCRHBMC_w": "CVE-2026-3055｜Citrix NetScaler ADC和NetScaler Gateway内存越界读取漏洞",
     "https://mp.weixin.qq.com/s/6iA6sknfVQhvjKA9HojMJw": "美国网络安全和基础设施安全局 (CISA) 警告：F5 BIG-IP 漏洞已被积极用于攻击",
-    "https://mp.weixin.qq.com/s/6It75fU3zzD6_a6l6bsXHg": "CORS 跨域漏洞攻防实战：靶场复现 + POC 编写 + 防御配置"
+    "https://mp.weixin.qq.com/s/6It75fU3zzD6_a6l6bsXHg": "CORS 跨域漏洞攻防实战：靶场复现 + POC 编写 + 防御配置",
+    "https://mp.weixin.qq.com/s/06Wx8xZAZJSBfcrdg2ZktA": "SQL 到 SSH：Grafana 中存在严重 CVSS 9.1 级远程代码执行漏洞，可将监控变成远程劫持"
 }
