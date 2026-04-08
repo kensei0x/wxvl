@@ -19698,5 +19698,10 @@
     "https://mp.weixin.qq.com/s/eQqEBMIGW3MNcoGWiuVKEw": "Docker授权绕过漏洞使主机暴露于潜在攻击者之下",
     "https://mp.weixin.qq.com/s/AM5CJPwUKEyprQzXK4mvJg": "【漏洞通告】Apache ActiveMQ Classic 远程代码执行漏洞 CVE-2026-34197",
     "https://mp.weixin.qq.com/s/63yJUkiNWR_K1eVh1-poyA": "[工具推荐]BurpSuite 多漏洞自动化探测插件xia_tan (瞎探)",
-    "https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg": "【已复现】OpenAM 预认证反序列化远程代码执行漏洞（CVE-2026-33439）"
+    "https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg": "【已复现】OpenAM 预认证反序列化远程代码执行漏洞（CVE-2026-33439）",
+    "https://mp.weixin.qq.com/s/3RWtWphVFPpDmYKWmsRoHg": "迅饶科技X2Modbus网关GetConfig接口存在敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/397gOgvOHojuVcXDeq-zjA": "Vite 任意文件读取漏洞 | CVE-2026-39363复现&研究",
+    "https://mp.weixin.qq.com/s/F_iCsZVqUvoTnC4zhB8Y7Q": "【高危漏洞预警】Apache ActiveMQ远程代码执行漏洞(CVE-2026-34197)",
+    "https://mp.weixin.qq.com/s/r5C-C2E0OZZci8BwAQICPw": "【高危漏洞预警】Vite WebSocket任意文件读取漏洞(CVE-2026-39363)",
+    "https://mp.weixin.qq.com/s/1244Ya5UrHHuWAs6KXnw2g": "J.a.k.o.b -如何更好的进行漏洞和**研究？"
 }
