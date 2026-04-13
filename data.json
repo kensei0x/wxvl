@@ -19843,5 +19843,7 @@
     "https://mp.weixin.qq.com/s/5ML_O5M58UWCvKt8Vc9IGA": "Marimo 高危预认证 RCE 漏洞已遭活跃利用",
     "https://mp.weixin.qq.com/s/3Dm6vTqVd_cV34sfxNzxxQ": "MyBatis框架SQL注入漏洞深度剖析",
     "https://mp.weixin.qq.com/s/rmLOTdxU2b_9kIJ9mQBKVQ": "漏洞预警：LiteLLM未鉴权命令执行",
-    "https://mp.weixin.qq.com/s/ITrqweYv7yKYojiuDEXHhA": "筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖"
+    "https://mp.weixin.qq.com/s/ITrqweYv7yKYojiuDEXHhA": "筑牢开源安全防线，360荣膺开源鸿蒙社区漏洞挖掘双料大奖",
+    "https://mp.weixin.qq.com/s/_g_yapCvMyC1KJm0JEhxWw": "Apache ActiveMQ存在远程代码执行漏洞(CVE-2026-34197) 附POC",
+    "https://mp.weixin.qq.com/s/mfrCvwyr2UigSC6vnjPTTw": "漏洞挖掘 | 一次数据库是Hive的SQL注入"
 }
