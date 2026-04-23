@@ -20171,5 +20171,9 @@
     "https://mp.weixin.qq.com/s/ZRSw0R8mH1tY_7jsYUswRA": "【已复现】FortiSandbox 身份验证绕过漏洞（CVE-2026-39813）",
     "https://mp.weixin.qq.com/s/7GZgED4pCSwGFicuaQo5xA": "微软紧急修复严重的 ASP.NET 漏洞",
     "https://mp.weixin.qq.com/s/03XwoW8lYlsO4K23ltAtZA": "【警示】AI首次参与挖出NGINX高危漏洞，安全工程师还剩什么",
-    "https://mp.weixin.qq.com/s/jvO4_xIs-lHx_cD068kgVw": "小米安全中心关于AI生成漏洞报告的处置公告"
+    "https://mp.weixin.qq.com/s/jvO4_xIs-lHx_cD068kgVw": "小米安全中心关于AI生成漏洞报告的处置公告",
+    "https://mp.weixin.qq.com/s/LRjrEUoutKGQDj2loGBzxw": "全程云OA download.ashx接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/CZmoztuvC2mYssA2VVtWgg": "edu漏洞之若依nday漏洞复现(一)",
+    "https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA": "小红书SRC发布《AI生成漏洞报告提交规范》",
+    "https://mp.weixin.qq.com/s/4cEKtpLcK3VbaZ3dv0JzOA": "全新开源 Burp AI 扫描插件、支持 17 类 Web 漏洞检测，自带 WAF 绕过，一键自动化挖掘并智能验证漏洞"
 }
