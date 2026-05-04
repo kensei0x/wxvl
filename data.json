@@ -20489,5 +20489,6 @@
     "https://mp.weixin.qq.com/s/O5CYKKIsJ4R_QrzgiN0w7w": "xia_tan：基于BurpSuite的自动化漏洞探测插件",
     "https://mp.weixin.qq.com/s/DiKT3wpwS55K3dMvelXM3Q": "影响Firefox与Tor浏览器的跨会话指纹跟踪漏洞",
     "https://mp.weixin.qq.com/s/pPk6j_IqVpPlaF19jaTfTw": "CVE-2026-31431：我用 DeepSeek 复现了 AI 发现Copy Fail 提权的全过程",
-    "https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g": "JAVA框架与组件 FastJSON 漏洞分析"
+    "https://mp.weixin.qq.com/s/1ZXcoBIn-Qo7G2wMDUh_0g": "JAVA框架与组件 FastJSON 漏洞分析",
+    "https://mp.weixin.qq.com/s/mEpM48WrSDJ8vsIobtLLnQ": "CISA 将已被积极利用的 Linux Root 访问漏洞 CVE-2026-31431 添加到 KEV 中"
 }
