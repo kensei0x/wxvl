@@ -20659,5 +20659,7 @@
     "https://mp.weixin.qq.com/s/zBA1KTq-w8ZbCuNOSEu5Nw": "【已复现】漏洞预警 | Linux内核本地提权漏洞 Dirty Frag",
     "https://mp.weixin.qq.com/s/dI588WwNe85p7eA1TvDWag": "Cisco 网络管理组件曝 DoS 漏洞，网络控制面不能只靠“重启恢复”",
     "https://mp.weixin.qq.com/s/WCgLSMpo-vfG1wBPOtcFIg": "【风险提示】天融信关于Linux Kernel本地权限提升漏洞Dirty Frag的风险提示",
-    "https://mp.weixin.qq.com/s/WKyE3t4e8wNw04k6eQkcQg": "Dirty Frag：Linux 本地提权漏洞"
+    "https://mp.weixin.qq.com/s/WKyE3t4e8wNw04k6eQkcQg": "Dirty Frag：Linux 本地提权漏洞",
+    "https://mp.weixin.qq.com/s/OaHLzB9noK7EYGCQLwWsrg": "Linux 新提权漏洞 DirtyFrag",
+    "https://mp.weixin.qq.com/s/k5iUCouCUVa42ggPcfCHbQ": "【高危漏洞预警】Linux Kernel Dirty Frag 本地权限提升漏洞"
 }
