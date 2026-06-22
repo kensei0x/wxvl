@@ -21338,5 +21338,6 @@
     "https://mp.weixin.qq.com/s/k8XNVtK4eAqIGCMe_FtkLg": "CVE-2026-48907｜Joomla JCE编辑器扩展未授权远程代码执行漏洞（POC）",
     "https://mp.weixin.qq.com/s/negrW-wvlejIt_LpjfKtkA": "NGINX Open Source 中存在两个可导致RCE的严重漏洞",
     "https://mp.weixin.qq.com/s/hsFCML3EoECqFgnhSighNw": "Chrome扩展程序存在严重漏洞，攻击者可轻松入侵数百万浏览器",
-    "https://mp.weixin.qq.com/s/Ao7jqzuTB3iUZG-ZHTfBbQ": "【高危漏洞预警】FreeBSD KTLS本地权限提升漏洞(CVE-2026-45257)"
+    "https://mp.weixin.qq.com/s/Ao7jqzuTB3iUZG-ZHTfBbQ": "【高危漏洞预警】FreeBSD KTLS本地权限提升漏洞(CVE-2026-45257)",
+    "https://mp.weixin.qq.com/s/hKnSpfWIod-hnG4DQFm4lg": "豆包的xss漏洞复现(蹭热点版)"
 }
