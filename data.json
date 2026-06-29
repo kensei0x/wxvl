@@ -21498,5 +21498,6 @@
     "https://mp.weixin.qq.com/s/pCb0O2NUgWEUDx2r0x3h6Q": "Amp Code：通过提示注入实现任意命令执行",
     "https://mp.weixin.qq.com/s/Z9n0BzA77wIVB7eC3ink1g": "【高危漏洞预警】Linux内核高危本地提权漏洞CVE-2026-43503（DirtyClone）",
     "https://mp.weixin.qq.com/s/gTXk4wbHnKaiLyIHH_zMCg": "【已复现】漏洞通告 | Linux Kernel DirtyClone 本地权限提升漏洞(CVE-2026-43503)",
-    "https://mp.weixin.qq.com/s/QOTc3Q1iige53JjtpvYCgA": "CVE-2026-40409 UDFS的整数截断漏洞分析"
+    "https://mp.weixin.qq.com/s/QOTc3Q1iige53JjtpvYCgA": "CVE-2026-40409 UDFS的整数截断漏洞分析",
+    "https://mp.weixin.qq.com/s/5N6vkJckrlk8XLmAYvE0qA": "攻击面管理系统｜AI 驱动资产测绘 + 万条 Nuclei 漏洞库，自动生成漏洞 EXP，内网公网一键扫描利用"
 }
