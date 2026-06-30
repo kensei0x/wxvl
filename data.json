@@ -21536,5 +21536,7 @@
     "https://mp.weixin.qq.com/s/IdViLpiWmrSNgSSabjGI6A": "2026攻防演练必修高危漏洞集合（2.0版）",
     "https://mp.weixin.qq.com/s/HpkT_rS83TVLNvAm1yZyHQ": "苹果修复了iOS、macOS和Safari的30多个漏洞，其中包括人工智能发现的WebKit漏洞",
     "https://mp.weixin.qq.com/s/lzI98GqfRXjXh2_XDtiViw": "Evoke Systems 充电站管理系统存在四个严重漏洞，劫持活动会话干扰充电运营",
-    "https://mp.weixin.qq.com/s/NmqWMF5ALKzk9UJ0kq0D-A": "【已支持检测】预认证即可利用！Kemp LoadMaster 堆内存缺陷导致命令注入远程代码执行漏洞（CVE-2026-8037）"
+    "https://mp.weixin.qq.com/s/NmqWMF5ALKzk9UJ0kq0D-A": "【已支持检测】预认证即可利用！Kemp LoadMaster 堆内存缺陷导致命令注入远程代码执行漏洞（CVE-2026-8037）",
+    "https://mp.weixin.qq.com/s/xafOq2_btzgEL-cxht5haQ": "新版App应用漏洞扫描，企业级移动安全合规利器，多维检测隐私泄露、权限滥用、高危API调用等常见APP安全隐患",
+    "https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw": "【高危漏洞预警】CVE-2026-52813｜Gogs路径遍历+Git钩子组合RCE"
 }
