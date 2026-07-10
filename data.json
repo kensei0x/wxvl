@@ -21744,5 +21744,7 @@
     "https://mp.weixin.qq.com/s/kXLAXtk5kuVEbXSrnjptDg": "【热点安全风险】7月10日 |Google发布Chrome更新，修复27个安全漏洞，包含多个常用组件中的Critical级别漏洞",
     "https://mp.weixin.qq.com/s/fbSUAP4M3QwhivkmmovTHA": "OPNsense Root RCE 漏洞(CVE-2026-57155，CVSS 9.9) PoC已公开，建议立即升级！",
     "https://mp.weixin.qq.com/s/GSbyHVCqWu9c9fQJc1Kwmw": "CVE复现 | CVE-2026-31816漏洞复现",
-    "https://mp.weixin.qq.com/s/hRtyUrP23BiNQld_lqL5KQ": "微软修复 Windows Defender RoguePlanet 漏洞 CVE-2026-50656"
+    "https://mp.weixin.qq.com/s/hRtyUrP23BiNQld_lqL5KQ": "微软修复 Windows Defender RoguePlanet 漏洞 CVE-2026-50656",
+    "https://mp.weixin.qq.com/s/dfei6JgD1QkIjZ7TjTYPVQ": "锐明技术Crocus系统 DeviceFileUpload 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/2OBKAihOEfR0x59zx8GUcw": "西软云XMS download2 任意文件读取漏洞"
 }
