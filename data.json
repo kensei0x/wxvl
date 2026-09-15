@@ -22225,5 +22225,7 @@
     "https://mp.weixin.qq.com/s/rGr1WhpTcPK2WoFngUcVHw": "使用ASC + 自建 MCP 做APK漏洞面定位流水线",
     "https://mp.weixin.qq.com/s/rC8uFUAeDcYnhXA2a7SClg": "搜狗输入法曝一键 RCE 漏洞（CVE-2026-51990），已被在野利用投放后门",
     "https://mp.weixin.qq.com/s/2TyIwuivZQ6wJ7Mm-E3RYw": "【2026hvv】搜狗一键RCE漏洞之三个\"各自不算致命\"的缺陷如何变成 Critical，文章详谈~【附验证exp】",
-    "https://mp.weixin.qq.com/s/ZUINewc4p6R1U2h9mGMRcg": "dddd-Next 自动化资产测绘 + 漏洞扫描工具，覆盖指纹识别、弱口令、nuclei POC、Shiro 专项检测和 HTML 报告"
+    "https://mp.weixin.qq.com/s/ZUINewc4p6R1U2h9mGMRcg": "dddd-Next 自动化资产测绘 + 漏洞扫描工具，覆盖指纹识别、弱口令、nuclei POC、Shiro 专项检测和 HTML 报告",
+    "https://mp.weixin.qq.com/s/Sf9ns4WBGhxVNjOpQ1IqBg": "已复现 | 搜狗输入法“1点击”远程代码执行漏洞（视频）",
+    "https://mp.weixin.qq.com/s/hQphKssKvTZ0q3G2mrny8A": "网安入门必学：基础不牢，漏洞白学"
 }
