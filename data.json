@@ -22370,5 +22370,6 @@
     "https://mp.weixin.qq.com/s/bdw-V7iIqXslZ43XfTar9g": "直播回顾 | 漏洞刚披露，攻击已经开始：企业的响应窗口还剩多久？",
     "https://mp.weixin.qq.com/s/Gz08tZD2tmK2Sy2yPrrEMA": "CRA漏洞上报实战：从漏洞研判到24小时报告，企业应该怎么做？",
     "https://mp.weixin.qq.com/s/Am4GMFyi-9866VOom0DZIQ": "护网出局单位的RCE",
-    "https://mp.weixin.qq.com/s/Euc-zl-ioMRCVfYQoFNPhg": "Linux 内核曝四个提权漏洞，攻击者可借此获取 root 权限"
+    "https://mp.weixin.qq.com/s/Euc-zl-ioMRCVfYQoFNPhg": "Linux 内核曝四个提权漏洞，攻击者可借此获取 root 权限",
+    "https://mp.weixin.qq.com/s/fAylyI9RH-nJNSPd45rEog": "【已复现】Cisco ISE 认证绕过漏洞（CVE-2026-76460）"
 }
