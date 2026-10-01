@@ -22698,5 +22698,7 @@
     "https://mp.weixin.qq.com/s/tJKiXbtJNbhUgHji8sU9jA": "MikroTik RouterOS 严重漏洞可导致未认证根 RCE",
     "https://mp.weixin.qq.com/s/ACcihEtNAyF5AaEI2HxQgg": "AI代理挖洞：从代码到RCE的漏洞研究工作流",
     "https://mp.weixin.qq.com/s/ZYkuZzCQpkrzFiBEo4RVxw": "【转译】从SELECT到SYSADMIN：用SQL Copilot提权（CVE-2026-65669） 值得一看",
-    "https://mp.weixin.qq.com/s/KuD2CdtI6mzPMFHi6Nqr6A": "【已复现】Citrix NetScaler 预认证远程代码执行漏洞（CVE-2026-88772）"
+    "https://mp.weixin.qq.com/s/KuD2CdtI6mzPMFHi6Nqr6A": "【已复现】Citrix NetScaler 预认证远程代码执行漏洞（CVE-2026-88772）",
+    "https://mp.weixin.qq.com/s/nB9DOIw-SSnDEHTdF3VvCA": "CVE-2026-94545 Next.js next∕og 未经身份验证的远程代码执行",
+    "https://mp.weixin.qq.com/s/-eBKnSNJ0T7g5WB_wNAROQ": "渗透测试从业者的新武器 AI 插件主动打 payload，凭证据判定漏洞"
 }
