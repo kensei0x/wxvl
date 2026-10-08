@@ -22830,5 +22830,8 @@
     "https://mp.weixin.qq.com/s/lbty8Xp6epLUtTrHdqekqw": "CNNVD | 关于《网络安全漏洞管理体系与标准化研究》研究课题征集意见和参与单位的通知",
     "https://mp.weixin.qq.com/s/st4lrM3Vdo63-Gu2zs1FHA": "【漏洞通告】Citrix Netscaler ADC∕Gateway预认证内存溢出漏洞(CVE-2026-88772)",
     "https://mp.weixin.qq.com/s/dX1AkFr0omAxrFWEI5Xydw": "BRuteLogic 披露：EJS < v6.0.0-alpha 原型污染可致 RCE",
-    "https://mp.weixin.qq.com/s/3hfP5nXwi3e1KjZK7e4YPw": "安信天行再度荣获CNVD\"原创漏洞发现贡献单位\"称号"
+    "https://mp.weixin.qq.com/s/3hfP5nXwi3e1KjZK7e4YPw": "安信天行再度荣获CNVD\"原创漏洞发现贡献单位\"称号",
+    "https://mp.weixin.qq.com/s/NsEvJLds12dR901y03bAVg": "红帽 OpenShift 漏洞允许攻击者绕过 PGP 检查并推送恶意版本",
+    "https://mp.weixin.qq.com/s/o7hBx3gEsVVNBerY38wqeQ": "CVSS 9.8！思科核心交换机NGOAM漏洞，远程无登录即可拿下最高权限",
+    "https://mp.weixin.qq.com/s/dN43midSAeaZtRLO9hWQtg": "【高危漏洞预警】Atlassian Data Center未认证任意文件读取漏洞CVE-2026-21589"
 }
