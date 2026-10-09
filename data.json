@@ -22868,5 +22868,11 @@
     "https://mp.weixin.qq.com/s/lwlbIGNmEEM3puRcXsndzw": "报名进行时｜首届全球具身智能应用创新挑战赛·漏洞挖掘挑战赛诚邀参赛",
     "https://mp.weixin.qq.com/s/5NfcQt1ci6SBB984Cqxg-w": "【安全资讯】Pwn2Own Ireland 2026 落幕：漏洞碰撞频发",
     "https://mp.weixin.qq.com/s/KpHhj-nWbkxPzVWGvwCQRA": "WordPress 严重漏洞可引发跨站脚本 (XSS)、SQL 注入及信息泄露攻击",
-    "https://mp.weixin.qq.com/s/6J_rVYgQC6-CZYd_ANbHRA": "Atlassian高危漏洞遭在野利用，细节公开数小时即现攻击"
+    "https://mp.weixin.qq.com/s/6J_rVYgQC6-CZYd_ANbHRA": "Atlassian高危漏洞遭在野利用，细节公开数小时即现攻击",
+    "https://mp.weixin.qq.com/s/ODQTs3jjeam9FpT1OetQPQ": "Atlassian Jira存在任意文件读取漏洞CVE-2026-21589  附POC",
+    "https://mp.weixin.qq.com/s/ORwMTwxGUB0LfvRBHYWcFg": "【已复现】Atlassian系统任意文件读取漏洞(CVE-2026-21589)",
+    "https://mp.weixin.qq.com/s/wU0irboXUX6n_rPzmZmCQQ": "我把一个目标丢给 AI 找洞，它给了我一个 RCE——也给了 27 个幻觉",
+    "https://mp.weixin.qq.com/s/NRfIHxGCMEq3kovBTuD3Zg": "Telegram Desktop：一次点击就能接管账号的 IPC 注入漏洞",
+    "https://mp.weixin.qq.com/s/uKR16uxOoiT57MX9iApCNQ": "复现Atlassian系统任意文件读取漏洞(CVE-2026-21589)",
+    "https://mp.weixin.qq.com/s/-ayQDomcbhlISg89MAmCfg": "LibreOffice Calc曝(CVE-2026-63277)，恶意电子表格可绕过宏提示触发Java代码执行"
 }
